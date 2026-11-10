@@ -1,0 +1,15 @@
+myzeptotracker quick setup:
+
+1) Start laptop backend:
+   Windows: double-click backend/start_backend_windows.bat
+   Linux:   run backend/start_backend_linux.sh
+
+2) Install Flutter 3.44+ and Android SDK. Open the mobile folder in Android Studio.
+   Run: flutter pub get
+   Then: flutter run   (or flutter build apk --release)
+
+3) In the app settings, set backend URL to the laptop LAN IP and enter the API_KEY from backend/.env.
+
+4) Test the notification before any live connector setup.
+
+5) Live Zepto checks are intentionally disabled by default. Follow LIVE_CONNECTOR.md and use only an authorised endpoint. No Akamai bypass or IP-rotation logic is included.

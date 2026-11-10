@@ -1,0 +1,48 @@
+[
+  {
+    "id": "iphone17_256",
+    "name": "iPhone 17 256GB (Any Colour)",
+    "category": "Phones",
+    "query": "iPhone 17 256GB",
+    "search_url": "https://www.zeptonow.com/search?query=iPhone%2017%20256GB",
+    "enabled": true,
+    "match": {
+      "storage": "256GB",
+      "model": "iPhone 17"
+    }
+  },
+  {
+    "id": "ps5_any",
+    "name": "PlayStation 5 (Any Edition)",
+    "category": "Gaming",
+    "query": "PlayStation 5 PS5",
+    "search_url": "https://www.zeptonow.com/search?query=PlayStation%205%20PS5",
+    "enabled": true,
+    "match": {
+      "model": "PlayStation 5",
+      "edition": "any"
+    }
+  },
+  {
+    "id": "kinder_joy_regular",
+    "name": "Kinder Joy (Regular)",
+    "category": "Snacks",
+    "query": "Kinder Joy",
+    "search_url": "https://www.zeptonow.com/search?query=Kinder%20Joy",
+    "enabled": false,
+    "match": {
+      "edition": "regular"
+    }
+  },
+  {
+    "id": "kinder_joy_special",
+    "name": "Kinder Joy (Special / Limited Edition)",
+    "category": "Snacks",
+    "query": "Kinder Joy special edition limited edition",
+    "search_url": "https://www.zeptonow.com/search?query=Kinder%20Joy%20special%20edition",
+    "enabled": false,
+    "match": {
+      "edition": "special"
+    }
+  }
+]

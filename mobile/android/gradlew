@@ -1,0 +1,28 @@
+#!/usr/bin/env sh
+# Small wrapper launcher: downloads and checksum-verifies the official Gradle distribution once.
+set -eu
+VERSION="8.14.3"
+EXPECTED_SHA256="bd71102213493060956ec229d946beee57158dbd89d0e62b91bca0fa2c5f3531"
+BASE="${GRADLE_USER_HOME:-$HOME/.gradle}/myzeptotracker-wrapper"
+HOME_DIR="$BASE/gradle-$VERSION"
+ZIP="$BASE/gradle-$VERSION-bin.zip"
+if [ ! -x "$HOME_DIR/bin/gradle" ]; then
+  mkdir -p "$BASE"
+  if [ ! -f "$ZIP" ]; then
+    echo "Downloading official Gradle $VERSION distribution (first build only)..."
+    if command -v curl >/dev/null 2>&1; then curl -fL "https://services.gradle.org/distributions/gradle-$VERSION-bin.zip" -o "$ZIP"
+    else echo "curl is required to download Gradle." >&2; exit 1; fi
+  fi
+  if command -v sha256sum >/dev/null 2>&1; then
+    ACTUAL="$(sha256sum "$ZIP" | awk '{print $1}')"
+  elif command -v shasum >/dev/null 2>&1; then
+    ACTUAL="$(shasum -a 256 "$ZIP" | awk '{print $1}')"
+  else echo "sha256sum or shasum is required to verify Gradle." >&2; exit 1; fi
+  if [ "$ACTUAL" != "$EXPECTED_SHA256" ]; then
+    rm -f "$ZIP"
+    echo "Gradle distribution SHA-256 mismatch; download removed." >&2
+    exit 1
+  fi
+  unzip -q -o "$ZIP" -d "$BASE"
+fi
+exec "$HOME_DIR/bin/gradle" "$@"

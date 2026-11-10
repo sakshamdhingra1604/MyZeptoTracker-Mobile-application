@@ -1,0 +1,1 @@
+Backend smoke-tested in the packaging environment with FastAPI TestClient: health, status, products, location listing, test-event, start, and stop endpoints.

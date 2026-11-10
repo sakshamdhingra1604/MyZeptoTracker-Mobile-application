@@ -1,0 +1,2063 @@
+[
+  {
+    "id": "loc-0001",
+    "city": "Delhi",
+    "name": "Metropolis Logistics Private Limited",
+    "locality": "Mahipalpur / Rangpuri",
+    "pin_code": "110037",
+    "address": "Plot 50, Rangpuri Extension, Mahipalpur, New Delhi - 110037",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0002",
+    "city": "Delhi",
+    "name": "Jai Kishan Gupta",
+    "locality": "Adarsh Nagar",
+    "pin_code": "110033",
+    "address": "Adarsh Nagar, Delhi, Delhi - 110033",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0003",
+    "city": "Delhi",
+    "name": "ANAND VIHAR New",
+    "locality": "Anand Vihar",
+    "pin_code": "110092",
+    "address": "Anand Vihar, Delhi, Delhi - 110092",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0004",
+    "city": "Delhi",
+    "name": "IMS East Delhi - 1: Cat",
+    "locality": "Anand Vihar",
+    "pin_code": "110092",
+    "address": "Anand Vihar, Delhi, Delhi - 110092",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0005",
+    "city": "Delhi",
+    "name": "Rahul's IAS",
+    "locality": "Ashok Vihar",
+    "pin_code": "110052",
+    "address": "Ashok Vihar, Delhi, Delhi - 110052",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0006",
+    "city": "Delhi",
+    "name": "Babarpur",
+    "locality": "Babarpur",
+    "pin_code": "110093",
+    "address": "Babarpur, Delhi, Delhi - 110093",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0007",
+    "city": "Delhi",
+    "name": "Nizami Apparels Pvt Ltd",
+    "locality": "Baprola",
+    "pin_code": "110043",
+    "address": "Baprola, Delhi, Delhi - 110043",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0008",
+    "city": "Delhi",
+    "name": "Begumpur",
+    "locality": "Begumpur",
+    "pin_code": "110081",
+    "address": "Begumpur, Delhi, Delhi - 110081",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0009",
+    "city": "Delhi",
+    "name": "Global Bajaj",
+    "locality": "Burari",
+    "pin_code": "110084",
+    "address": "Burari, Delhi, Delhi - 110084",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0010",
+    "city": "Delhi",
+    "name": "Sparsh Homeopathic Clinic",
+    "locality": "Burari",
+    "pin_code": "110084",
+    "address": "Burari, Delhi, Delhi - 110084",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0011",
+    "city": "Delhi",
+    "name": "Tis Hazari Metro Station",
+    "locality": "Central Delhi",
+    "pin_code": "110054",
+    "address": "Central Delhi, Delhi, Delhi - 110054",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0012",
+    "city": "Delhi",
+    "name": "Savorworks Roasters",
+    "locality": "Chhatarpur",
+    "pin_code": "110074",
+    "address": "Chhatarpur, Delhi, Delhi - 110074",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0013",
+    "city": "Delhi",
+    "name": "Ashok Leyland Dost LCV Asco Motors Delhi",
+    "locality": "Dhaulakuan",
+    "pin_code": "110042",
+    "address": "Dhaulakuan, Delhi, Delhi - 110042",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0014",
+    "city": "Delhi",
+    "name": "Louis Oliver Online Exam Center",
+    "locality": "Dilshad Garden",
+    "pin_code": "110095",
+    "address": "Dilshad Garden, Delhi, Delhi - 110095",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0015",
+    "city": "Delhi",
+    "name": "Dev Public School Sector 8 Village Bagdola",
+    "locality": "Dwarka",
+    "pin_code": "110077",
+    "address": "Dwarka, Delhi, Delhi - 110077",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0016",
+    "city": "Delhi",
+    "name": "Dwarka Mor",
+    "locality": "Dwarka Mor",
+    "pin_code": "110043",
+    "address": "Dwarka Mor, Delhi, Delhi - 110043",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0017",
+    "city": "Delhi",
+    "name": "Dwarka sector 7",
+    "locality": "Dwarka Sector 7",
+    "pin_code": "110045",
+    "address": "Dwarka Sector 7, Delhi, Delhi - 110045",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0018",
+    "city": "Delhi",
+    "name": "Shiv Sai Dwarka Apartments",
+    "locality": "Dwarka",
+    "pin_code": "110078",
+    "address": "Dwarka, Delhi, Delhi - 110078",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0019",
+    "city": "Delhi",
+    "name": "Shubham Steel",
+    "locality": "Dwarka",
+    "pin_code": "110077",
+    "address": "Dwarka, Delhi, Delhi - 110077",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0020",
+    "city": "Delhi",
+    "name": "The Car Guys",
+    "locality": "Dwarka",
+    "pin_code": "110075",
+    "address": "Dwarka, Delhi, Delhi - 110075",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0021",
+    "city": "Delhi",
+    "name": "24Seven",
+    "locality": "East Of Kailash",
+    "pin_code": "110065",
+    "address": "East Of Kailash, Delhi, Delhi - 110065",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0022",
+    "city": "Delhi",
+    "name": "Huddle Stays Castor - Boys PG In Garhi East Of Kailash",
+    "locality": "East Of Kailash",
+    "pin_code": "110065",
+    "address": "East Of Kailash, Delhi, Delhi - 110065",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0023",
+    "city": "Delhi",
+    "name": "Fatehpur Beri",
+    "locality": "Fatehpur Beri",
+    "pin_code": "110074",
+    "address": "Fatehpur Beri, Delhi, Delhi - 110074",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0024",
+    "city": "Delhi",
+    "name": "Andhra Spices Biryani Base",
+    "locality": "Gautam Nagar",
+    "pin_code": "110049",
+    "address": "Gautam Nagar, Delhi, Delhi - 110049",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0025",
+    "city": "Delhi",
+    "name": "Ramlila Ground Geeta Colony",
+    "locality": "Geeta Colony",
+    "pin_code": "110051",
+    "address": "Geeta Colony, Delhi, Delhi - 110051",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0026",
+    "city": "Delhi",
+    "name": "Greater Kailash",
+    "locality": "Greater Kailash",
+    "pin_code": "110048",
+    "address": "Greater Kailash, Delhi, Delhi - 110048",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0027",
+    "city": "Delhi",
+    "name": "SDMC Parking Uphar Cinema",
+    "locality": "Green Park",
+    "pin_code": "110029",
+    "address": "Green Park, Delhi, Delhi - 110029",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0028",
+    "city": "Delhi",
+    "name": "Jaitpur",
+    "locality": "Jaitpur",
+    "pin_code": "110044",
+    "address": "Jaitpur, Delhi, Delhi - 110044",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0029",
+    "city": "Delhi",
+    "name": "Cut & Style Salon - Best UniSex Salon In Janakpuri | Best Makeup Artist In Janakpuri | Janakpuri A3 Block",
+    "locality": "Janakpuri",
+    "pin_code": "110058",
+    "address": "Janakpuri, Delhi, Delhi - 110058",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0030",
+    "city": "Delhi",
+    "name": "Trends",
+    "locality": "Janakpuri",
+    "pin_code": "110058",
+    "address": "Janakpuri, Delhi, Delhi - 110058",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0031",
+    "city": "Delhi",
+    "name": "Pradhan Ji Complex",
+    "locality": "Jasola",
+    "pin_code": "110025",
+    "address": "Jasola, Delhi, Delhi - 110025",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0032",
+    "city": "Delhi",
+    "name": "JASOLA VIHAR New",
+    "locality": "Jasola Vihar",
+    "pin_code": "110025",
+    "address": "Jasola Vihar, Delhi, Delhi - 110025",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0033",
+    "city": "Delhi",
+    "name": "Auto Connections R&d Center",
+    "locality": "Kalkaji",
+    "pin_code": "110019",
+    "address": "Kalkaji, Delhi, Delhi - 110019",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0034",
+    "city": "Delhi",
+    "name": "Blinkit",
+    "locality": "Kalyan Vihar",
+    "pin_code": "110007",
+    "address": "Kalyan Vihar, Delhi, Delhi - 110007",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0035",
+    "city": "Delhi",
+    "name": "Blinkit",
+    "locality": "Kalyan Vihar",
+    "pin_code": "110009",
+    "address": "Kalyan Vihar, Delhi, Delhi - 110009",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0036",
+    "city": "Delhi",
+    "name": "Reebok Outlet",
+    "locality": "Karam Pura",
+    "pin_code": "110015",
+    "address": "Karam Pura, Delhi, Delhi - 110015",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0037",
+    "city": "Delhi",
+    "name": "DCB Bank ATM",
+    "locality": "Karol Bagh",
+    "pin_code": "110005",
+    "address": "Karol Bagh, Delhi, Delhi - 110005",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0038",
+    "city": "Delhi",
+    "name": "JM Jain",
+    "locality": "Karol Bagh",
+    "pin_code": "110060",
+    "address": "Karol Bagh, Delhi, Delhi - 110060",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0039",
+    "city": "Delhi",
+    "name": "Her Fitness Kirti Nagar - Ladies Gym In Kirti Nagar",
+    "locality": "Kirti Nagar",
+    "pin_code": "110015",
+    "address": "Kirti Nagar, Delhi, Delhi - 110015",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0040",
+    "city": "Delhi",
+    "name": "Gopi Chand And Son Kotla Showroom",
+    "locality": "Kotla Mubarakpur",
+    "pin_code": "110003",
+    "address": "Kotla Mubarakpur, Delhi, Delhi - 110003",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0041",
+    "city": "Delhi",
+    "name": "Gali No - 2",
+    "locality": "Krishna Nagar",
+    "pin_code": "110092",
+    "address": "Krishna Nagar, Delhi, Delhi - 110092",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0042",
+    "city": "Delhi",
+    "name": "The Elite Spa & Wellness",
+    "locality": "Lajpat Nagar",
+    "pin_code": "110024",
+    "address": "Lajpat Nagar, Delhi, Delhi - 110024",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0043",
+    "city": "Delhi",
+    "name": "Post Office",
+    "locality": "Madipur",
+    "pin_code": "110063",
+    "address": "Madipur, Delhi, Delhi - 110063",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0044",
+    "city": "Delhi",
+    "name": "Roomshala 140 Hotel 24&7 Malviya Nagar",
+    "locality": "Malviya Nagar",
+    "pin_code": "110017",
+    "address": "Malviya Nagar, Delhi, Delhi - 110017",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0045",
+    "city": "Delhi",
+    "name": "Thehrav Homestay(caramel Homes)",
+    "locality": "Manglapuri",
+    "pin_code": "110045",
+    "address": "Manglapuri, Delhi, Delhi - 110045",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0046",
+    "city": "Delhi",
+    "name": "Mangol Pur Kalan",
+    "locality": "Mangol Pur Kalan",
+    "pin_code": "110083",
+    "address": "Mangol Pur Kalan, Delhi, Delhi - 110083",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0047",
+    "city": "Delhi",
+    "name": "Mangolpuri",
+    "locality": "Mangolpuri",
+    "pin_code": "110086",
+    "address": "Mangolpuri, Delhi, Delhi - 110086",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0048",
+    "city": "Delhi",
+    "name": "Ilios",
+    "locality": "Mansarover Garden",
+    "pin_code": "110015",
+    "address": "Mansarover Garden, Delhi, Delhi - 110015",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0049",
+    "city": "Delhi",
+    "name": "Glori By Noshh",
+    "locality": "Mayapuri",
+    "pin_code": "110064",
+    "address": "Mayapuri, Delhi, Delhi - 110064",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0050",
+    "city": "Delhi",
+    "name": "Asif Tea Stall",
+    "locality": "Mayur Vihar",
+    "pin_code": "110091",
+    "address": "Mayur Vihar, Delhi, Delhi - 110091",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0051",
+    "city": "Delhi",
+    "name": "Studio 99 Academy Of Beauty & Wellness",
+    "locality": "Mayur Vihar",
+    "pin_code": "110091",
+    "address": "Mayur Vihar, Delhi, Delhi - 110091",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0052",
+    "city": "Delhi",
+    "name": "Dr Kartik Chadha",
+    "locality": "Mukherjee Nagar",
+    "pin_code": "110009",
+    "address": "Mukherjee Nagar, Delhi, Delhi - 110009",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0053",
+    "city": "Delhi",
+    "name": "Model Town Diagnostic Centre",
+    "locality": "Mukherjee Nagar",
+    "pin_code": "110009",
+    "address": "Mukherjee Nagar, Delhi, Delhi - 110009",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0054",
+    "city": "Delhi",
+    "name": "Reliance Jewels - Najafgarh",
+    "locality": "Najafgarh",
+    "pin_code": "110043",
+    "address": "Najafgarh, Delhi, Delhi - 110043",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0055",
+    "city": "Delhi",
+    "name": "Balaji Electric Co",
+    "locality": "Nangloi",
+    "pin_code": "110041",
+    "address": "Nangloi, Delhi, Delhi - 110041",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0056",
+    "city": "Delhi",
+    "name": "Hotel Orbit Haveli",
+    "locality": "Narela",
+    "pin_code": "110040",
+    "address": "Narela, Delhi, Delhi - 110040",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0057",
+    "city": "Delhi",
+    "name": "A2 Block",
+    "locality": "New Delhi",
+    "pin_code": "110074",
+    "address": "New Delhi, Delhi, Delhi - 110074",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0058",
+    "city": "Delhi",
+    "name": "A2/11",
+    "locality": "New Delhi",
+    "pin_code": "110085",
+    "address": "New Delhi, Delhi, Delhi - 110085",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0059",
+    "city": "Delhi",
+    "name": "Asaf Ali Rd",
+    "locality": "New Delhi",
+    "pin_code": "110002",
+    "address": "New Delhi, Delhi, Delhi - 110002",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0060",
+    "city": "Delhi",
+    "name": "B-304",
+    "locality": "New Delhi",
+    "pin_code": "110096",
+    "address": "New Delhi, Delhi, Delhi - 110096",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0061",
+    "city": "Delhi",
+    "name": "Dabri - Palam Rd",
+    "locality": "New Delhi",
+    "pin_code": "110045",
+    "address": "New Delhi, Delhi, Delhi - 110045",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0062",
+    "city": "Delhi",
+    "name": "13 J-13/14",
+    "locality": "New Delhi",
+    "pin_code": "110027",
+    "address": "New Delhi, Delhi, Delhi - 110027",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0063",
+    "city": "Delhi",
+    "name": "Main Rajapuri Rd",
+    "locality": "New Delhi",
+    "pin_code": "110059",
+    "address": "New Delhi, Delhi, Delhi - 110059",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0064",
+    "city": "Delhi",
+    "name": "Narwana Rd",
+    "locality": "New Delhi",
+    "pin_code": "110092",
+    "address": "New Delhi, Delhi, Delhi - 110092",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0065",
+    "city": "Delhi",
+    "name": "Vishal Cinema Road",
+    "locality": "New Delhi",
+    "pin_code": "110027",
+    "address": "New Delhi, Delhi, Delhi - 110027",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0066",
+    "city": "Delhi",
+    "name": "Seohara Bijnor",
+    "locality": "New Friends Colony",
+    "pin_code": "110025",
+    "address": "New Friends Colony, Delhi, Delhi - 110025",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0067",
+    "city": "Delhi",
+    "name": "Nilothi",
+    "locality": "Nilothi",
+    "pin_code": "110041",
+    "address": "Nilothi, Delhi, Delhi - 110041",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0068",
+    "city": "Delhi",
+    "name": "Palam",
+    "locality": "Palam",
+    "pin_code": "110045",
+    "address": "Palam, Delhi, Delhi - 110045",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0069",
+    "city": "Delhi",
+    "name": "Bank Of India Chand Nagar(meera Enclave) Branch",
+    "locality": "Paschim Vihar",
+    "pin_code": "110018",
+    "address": "Paschim Vihar, Delhi, Delhi - 110018",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0070",
+    "city": "Delhi",
+    "name": "Parking Area",
+    "locality": "Paschim Vihar",
+    "pin_code": "110063",
+    "address": "Paschim Vihar, Delhi, Delhi - 110063",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0071",
+    "city": "Delhi",
+    "name": "Rawat Painters",
+    "locality": "Paschim Vihar",
+    "pin_code": "110087",
+    "address": "Paschim Vihar, Delhi, Delhi - 110087",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0072",
+    "city": "Delhi",
+    "name": "Vajirao Boys Hostel",
+    "locality": "Patel Nagar",
+    "pin_code": "110008",
+    "address": "Patel Nagar, Delhi, Delhi - 110008",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0073",
+    "city": "Delhi",
+    "name": "MTNL KP Block Office",
+    "locality": "Pitampura",
+    "pin_code": "110034",
+    "address": "Pitampura, Delhi, Delhi - 110034",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0074",
+    "city": "Delhi",
+    "name": "Sapna Muskan Photography",
+    "locality": "Pitampura",
+    "pin_code": "110034",
+    "address": "Pitampura, Delhi, Delhi - 110034",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0075",
+    "city": "Delhi",
+    "name": "Deluxe Omelette",
+    "locality": "Rohini",
+    "pin_code": "110085",
+    "address": "Rohini, Delhi, Delhi - 110085",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0076",
+    "city": "Delhi",
+    "name": "Laser Stone Hospital",
+    "locality": "Rohini",
+    "pin_code": "110089",
+    "address": "Rohini, Delhi, Delhi - 110089",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0077",
+    "city": "Delhi",
+    "name": "Manglam Place Rohini",
+    "locality": "Rohini",
+    "pin_code": "110085",
+    "address": "Rohini, Delhi, Delhi - 110085",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0078",
+    "city": "Delhi",
+    "name": "Nirogyam PhysioCare And Early Intervention Centre",
+    "locality": "Rohini",
+    "pin_code": "110086",
+    "address": "Rohini, Delhi, Delhi - 110086",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0079",
+    "city": "Delhi",
+    "name": "Ram Public School",
+    "locality": "Rohini",
+    "pin_code": "110086",
+    "address": "Rohini, Delhi, Delhi - 110086",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0080",
+    "city": "Delhi",
+    "name": "Ramsiya Creations",
+    "locality": "Rohini",
+    "pin_code": "110089",
+    "address": "Rohini, Delhi, Delhi - 110089",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0081",
+    "city": "Delhi",
+    "name": "Roshanara Garden",
+    "locality": "Roshanara Garden",
+    "pin_code": "110035",
+    "address": "Roshanara Garden, Delhi, Delhi - 110035",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0082",
+    "city": "Delhi",
+    "name": "Sadar Bazar",
+    "locality": "Sadar Bazar",
+    "pin_code": "110006",
+    "address": "Sadar Bazar, Delhi, Delhi - 110006",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0083",
+    "city": "Delhi",
+    "name": "Old School Gymnasium",
+    "locality": "Sagar Pur",
+    "pin_code": "110058",
+    "address": "Sagar Pur, Delhi, Delhi - 110058",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0084",
+    "city": "Delhi",
+    "name": "Freedom Fighter Enclave",
+    "locality": "Sainik Farm",
+    "pin_code": "110068",
+    "address": "Sainik Farm, Delhi, Delhi - 110068",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0085",
+    "city": "Delhi",
+    "name": "ISKCON",
+    "locality": "Sainik Farm",
+    "pin_code": "110030",
+    "address": "Sainik Farm, Delhi, Delhi - 110030",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0086",
+    "city": "Delhi",
+    "name": "Ranu Computer Education",
+    "locality": "Sangam Vihar",
+    "pin_code": "110080",
+    "address": "Sangam Vihar, Delhi, Delhi - 110080",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0087",
+    "city": "Delhi",
+    "name": "Sanjay Lake",
+    "locality": "Sanjay Lake",
+    "pin_code": "110091",
+    "address": "Sanjay Lake, Delhi, Delhi - 110091",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0088",
+    "city": "Delhi",
+    "name": "Jaishankar Memorial Centre",
+    "locality": "Sarita Vihar",
+    "pin_code": "110076",
+    "address": "Sarita Vihar, Delhi, Delhi - 110076",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0089",
+    "city": "Delhi",
+    "name": "Apex Square",
+    "locality": "Sector 17",
+    "pin_code": "110078",
+    "address": "Sector 17, Delhi, Delhi - 110078",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0090",
+    "city": "Delhi",
+    "name": "Hi Pitch Designs",
+    "locality": "Sector 19",
+    "pin_code": "110075",
+    "address": "Sector 19, Delhi, Delhi - 110075",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0091",
+    "city": "Delhi",
+    "name": "Ano Nutrition",
+    "locality": "Shahdara",
+    "pin_code": "110051",
+    "address": "Shahdara, Delhi, Delhi - 110051",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0092",
+    "city": "Delhi",
+    "name": "Indian Bank",
+    "locality": "Shahdara",
+    "pin_code": "110093",
+    "address": "Shahdara, Delhi, Delhi - 110093",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0093",
+    "city": "Delhi",
+    "name": "Reliance Fresh Store",
+    "locality": "Shahdara",
+    "pin_code": "110053",
+    "address": "Shahdara, Delhi, Delhi - 110053",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0094",
+    "city": "Delhi",
+    "name": "Bawa Palace",
+    "locality": "Shakarpur",
+    "pin_code": "110092",
+    "address": "Shakarpur, Delhi, Delhi - 110092",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0095",
+    "city": "Delhi",
+    "name": "Shalimar Bagh",
+    "locality": "Shalimar Bagh",
+    "pin_code": "110088",
+    "address": "Shalimar Bagh, Delhi, Delhi - 110088",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0096",
+    "city": "Delhi",
+    "name": "Iron Cave The Gym",
+    "locality": "Sheikh Sarai",
+    "pin_code": "110017",
+    "address": "Sheikh Sarai, Delhi, Delhi - 110017",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0097",
+    "city": "Delhi",
+    "name": "Khalsa Colony",
+    "locality": "Sidhartha Nagar",
+    "pin_code": "110013",
+    "address": "Sidhartha Nagar, Delhi, Delhi - 110013",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0098",
+    "city": "Delhi",
+    "name": "Vishal Mega Mart Kirari",
+    "locality": "Sultanpuri",
+    "pin_code": "110086",
+    "address": "Sultanpuri, Delhi, Delhi - 110086",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0099",
+    "city": "Delhi",
+    "name": "Asia Seven - Sizzling Chinese",
+    "locality": "Tilak Nagar",
+    "pin_code": "110018",
+    "address": "Tilak Nagar, Delhi, Delhi - 110018",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0100",
+    "city": "Delhi",
+    "name": "Narayan Cold Storage",
+    "locality": "Tri Nagar",
+    "pin_code": "110035",
+    "address": "Tri Nagar, Delhi, Delhi - 110035",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0101",
+    "city": "Delhi",
+    "name": "Mobile Vision",
+    "locality": "Tughlakabad",
+    "pin_code": "110019",
+    "address": "Tughlakabad, Delhi, Delhi - 110019",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0102",
+    "city": "Delhi",
+    "name": "Tansen Sangeet Mahavidyalay",
+    "locality": "Tukhmirpur",
+    "pin_code": "110094",
+    "address": "Tukhmirpur, Delhi, Delhi - 110094",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0103",
+    "city": "Delhi",
+    "name": "Dilli 59 Party Hall",
+    "locality": "Uttam Nagar",
+    "pin_code": "110059",
+    "address": "Uttam Nagar, Delhi, Delhi - 110059",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0104",
+    "city": "Delhi",
+    "name": "Mahesh Cycle Works",
+    "locality": "Uttam Nagar",
+    "pin_code": "110059",
+    "address": "Uttam Nagar, Delhi, Delhi - 110059",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0105",
+    "city": "Delhi",
+    "name": "New Deepak Band",
+    "locality": "Uttam Nagar",
+    "pin_code": "110059",
+    "address": "Uttam Nagar, Delhi, Delhi - 110059",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0106",
+    "city": "Delhi",
+    "name": "The Royal Biryani House",
+    "locality": "Uttam Nagar",
+    "pin_code": "110059",
+    "address": "Uttam Nagar, Delhi, Delhi - 110059",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0107",
+    "city": "Delhi",
+    "name": "Naveli",
+    "locality": "Vasant Kunj",
+    "pin_code": "110070",
+    "address": "Vasant Kunj, Delhi, Delhi - 110070",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0108",
+    "city": "Delhi",
+    "name": "Car Parking Pahadi Park",
+    "locality": "Vasant Vihar Tehsil",
+    "pin_code": "110067",
+    "address": "Vasant Vihar Tehsil, Delhi, Delhi - 110067",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0109",
+    "city": "Delhi",
+    "name": "Himalayan PG Junxion Boys C And H",
+    "locality": "Vasant Vihar Tehsil",
+    "pin_code": "110030",
+    "address": "Vasant Vihar Tehsil, Delhi, Delhi - 110030",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0110",
+    "city": "Delhi",
+    "name": "Narah Overseas Pvt Ltd",
+    "locality": "Vasant Vihar Tehsil",
+    "pin_code": "110070",
+    "address": "Vasant Vihar Tehsil, Delhi, Delhi - 110070",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0111",
+    "city": "Delhi",
+    "name": "Sehrawat Public School",
+    "locality": "Vasant Vihar Tehsil",
+    "pin_code": "110037",
+    "address": "Vasant Vihar Tehsil, Delhi, Delhi - 110037",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0112",
+    "city": "Delhi",
+    "name": "Supremework | Co-Working Space Bhikaji",
+    "locality": "Vasant Vihar Tehsil",
+    "pin_code": "110066",
+    "address": "Vasant Vihar Tehsil, Delhi, Delhi - 110066",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0113",
+    "city": "Delhi",
+    "name": "Gupta Traders",
+    "locality": "Vikaspuri",
+    "pin_code": "110018",
+    "address": "Vikaspuri, Delhi, Delhi - 110018",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0114",
+    "city": "Delhi",
+    "name": "Zepto Store Warehouse",
+    "locality": "Vikaspuri",
+    "pin_code": "110018",
+    "address": "Vikaspuri, Delhi, Delhi - 110018",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0115",
+    "city": "Delhi",
+    "name": "Life Line Hospital",
+    "locality": "Wazirabad",
+    "pin_code": "110084",
+    "address": "Wazirabad, Delhi, Delhi - 110084",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0116",
+    "city": "Delhi",
+    "name": "Wazirpur",
+    "locality": "Wazirpur",
+    "pin_code": "110052",
+    "address": "Wazirpur, Delhi, Delhi - 110052",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0117",
+    "city": "Delhi",
+    "name": "West Patel Nagar",
+    "locality": "West Patel Nagar",
+    "pin_code": "110008",
+    "address": "West Patel Nagar, Delhi, Delhi - 110008",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0118",
+    "city": "Delhi",
+    "name": "Dwarka Hub Ekart",
+    "locality": "Qutub Vihar",
+    "pin_code": "110071",
+    "address": "Qutub Vihar, Delhi, Delhi - 110071",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0119",
+    "city": "Gurugram",
+    "name": "Chaar Bhai Dhaba Gurgaon Fridabad Road Baliyawas",
+    "locality": "Gwal Pahari",
+    "pin_code": "122101",
+    "address": "Gwal Pahari, Gurgaon, Haryana - 122101",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0120",
+    "city": "Gurugram",
+    "name": "Sara Mart",
+    "locality": "4",
+    "pin_code": "122003",
+    "address": "4, Gurgaon, Haryana - 122003",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0121",
+    "city": "Gurugram",
+    "name": "Badshahpur",
+    "locality": "Badshahpur",
+    "pin_code": "122101",
+    "address": "Badshahpur, Gurgaon, Haryana - 122101",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0122",
+    "city": "Gurugram",
+    "name": "Sector 23A",
+    "locality": "Carterpuri",
+    "pin_code": "122017",
+    "address": "Carterpuri, Gurgaon, Haryana - 122017",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0123",
+    "city": "Gurugram",
+    "name": "Berak Road",
+    "locality": "Dhunela",
+    "pin_code": "122102",
+    "address": "Dhunela, Gurgaon, Haryana - 122102",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0124",
+    "city": "Gurugram",
+    "name": "Jharsa Road",
+    "locality": "Gurugram",
+    "pin_code": "122001",
+    "address": "Gurugram, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0125",
+    "city": "Gurugram",
+    "name": "Graceland Nersary",
+    "locality": "Sector 86",
+    "pin_code": "122505",
+    "address": "Sector 86, Gurgaon, Haryana - 122505",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0126",
+    "city": "Gurugram",
+    "name": "The Central Library(reading Room)|manesar",
+    "locality": "Sector 82",
+    "pin_code": "122004",
+    "address": "Sector 82, Gurgaon, Haryana - 122004",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0127",
+    "city": "Gurugram",
+    "name": "New Palam Vihar",
+    "locality": "New Palam Vihar",
+    "pin_code": "122017",
+    "address": "New Palam Vihar, Gurgaon, Haryana - 122017",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0128",
+    "city": "Gurugram",
+    "name": "Deepak Fashion Hub",
+    "locality": "Palam Vihar",
+    "pin_code": "122017",
+    "address": "Palam Vihar, Gurgaon, Haryana - 122017",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0129",
+    "city": "Gurugram",
+    "name": "DTDC Courier Booking Counter",
+    "locality": "Palam Vihar Extension",
+    "pin_code": "122015",
+    "address": "Palam Vihar Extension, Gurgaon, Haryana - 122015",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0130",
+    "city": "Gurugram",
+    "name": "Omi Tuition Classes/coaching Centre(otc)",
+    "locality": "Palam Vihar",
+    "pin_code": "122017",
+    "address": "Palam Vihar, Gurgaon, Haryana - 122017",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0131",
+    "city": "Gurugram",
+    "name": "Golden Glove Interiors",
+    "locality": "Sector 104",
+    "pin_code": "122006",
+    "address": "Sector 104, Gurgaon, Haryana - 122006",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0132",
+    "city": "Gurugram",
+    "name": "Sector 108",
+    "locality": "Sector 108",
+    "pin_code": "122017",
+    "address": "Sector 108, Gurgaon, Haryana - 122017",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0133",
+    "city": "Gurugram",
+    "name": "Blinkit Super Store Sec 112",
+    "locality": "Sector 110",
+    "pin_code": "122017",
+    "address": "Sector 110, Gurgaon, Haryana - 122017",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0134",
+    "city": "Gurugram",
+    "name": "Flagship The Shan Hotel Near Leisure Valley Park",
+    "locality": "Sector 12",
+    "pin_code": "122001",
+    "address": "Sector 12, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0135",
+    "city": "Gurugram",
+    "name": "Mankala Embroidery Work",
+    "locality": "Sector 13",
+    "pin_code": "122001",
+    "address": "Sector 13, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0136",
+    "city": "Gurugram",
+    "name": "Sector 14 New",
+    "locality": "Sector 14",
+    "pin_code": "122001",
+    "address": "Sector 14, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0137",
+    "city": "Gurugram",
+    "name": "Reliance Smart SuperStore",
+    "locality": "Sector 15",
+    "pin_code": "122001",
+    "address": "Sector 15, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0138",
+    "city": "Gurugram",
+    "name": "Jai Kumar",
+    "locality": "Sector 18",
+    "pin_code": "122016",
+    "address": "Sector 18, Gurgaon, Haryana - 122016",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0139",
+    "city": "Gurugram",
+    "name": "Tejbhan Residency",
+    "locality": "Sector 24",
+    "pin_code": "122010",
+    "address": "Sector 24, Gurgaon, Haryana - 122010",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0140",
+    "city": "Gurugram",
+    "name": "V 12/39 DLF-3",
+    "locality": "Sector 24",
+    "pin_code": "122010",
+    "address": "Sector 24, Gurgaon, Haryana - 122010",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0141",
+    "city": "Gurugram",
+    "name": "CIFAR Fertility & IVF Centre",
+    "locality": "Sector 27",
+    "pin_code": "122009",
+    "address": "Sector 27, Gurgaon, Haryana - 122009",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0142",
+    "city": "Gurugram",
+    "name": "KK Clinic- Best Gynecologist In DLF",
+    "locality": "Sector 28",
+    "pin_code": "122002",
+    "address": "Sector 28, Gurgaon, Haryana - 122002",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0143",
+    "city": "Gurugram",
+    "name": "Advocate Mukesh Sharma",
+    "locality": "Sector 30",
+    "pin_code": "122022",
+    "address": "Sector 30, Gurgaon, Haryana - 122022",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0144",
+    "city": "Gurugram",
+    "name": "Sabji",
+    "locality": "Sector 37",
+    "pin_code": "122001",
+    "address": "Sector 37, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0145",
+    "city": "Gurugram",
+    "name": "Gavin Engineering",
+    "locality": "Sector 37C",
+    "pin_code": "122001",
+    "address": "Sector 37C, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0146",
+    "city": "Gurugram",
+    "name": "Sector 37D",
+    "locality": "Sector 37D",
+    "pin_code": "122001",
+    "address": "Sector 37D, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0147",
+    "city": "Gurugram",
+    "name": "Hotel Wedlock Premium",
+    "locality": "Sector 38",
+    "pin_code": "122018",
+    "address": "Sector 38, Gurgaon, Haryana - 122018",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0148",
+    "city": "Gurugram",
+    "name": "New Anand Motor Driving School",
+    "locality": "Sector 4",
+    "pin_code": "122001",
+    "address": "Sector 4, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0149",
+    "city": "Gurugram",
+    "name": "Ultrex Recreational Club",
+    "locality": "Sector 41",
+    "pin_code": "122007",
+    "address": "Sector 41, Gurgaon, Haryana - 122007",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0150",
+    "city": "Gurugram",
+    "name": "Muffin Villa",
+    "locality": "Sector 43",
+    "pin_code": "122009",
+    "address": "Sector 43, Gurgaon, Haryana - 122009",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0151",
+    "city": "Gurugram",
+    "name": "Beeyan - Parijat | Hatha Yoga Studio | Isha Yoga Classes In Gurgaon",
+    "locality": "Sector 45",
+    "pin_code": "122003",
+    "address": "Sector 45, Gurgaon, Haryana - 122003",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0152",
+    "city": "Gurugram",
+    "name": "Bakingo",
+    "locality": "Sector 47",
+    "pin_code": "122005",
+    "address": "Sector 47, Gurgaon, Haryana - 122005",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0153",
+    "city": "Gurugram",
+    "name": "Sector 48",
+    "locality": "Sector 48",
+    "pin_code": "122004",
+    "address": "Sector 48, Gurgaon, Haryana - 122004",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0154",
+    "city": "Gurugram",
+    "name": "The Halycon",
+    "locality": "Sector 49",
+    "pin_code": "122018",
+    "address": "Sector 49, Gurgaon, Haryana - 122018",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0155",
+    "city": "Gurugram",
+    "name": "VLCC Beauty Clinic (Sohna Road",
+    "locality": "Sector 49",
+    "pin_code": "122101",
+    "address": "Sector 49, Gurgaon, Haryana - 122101",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0156",
+    "city": "Gurugram",
+    "name": "Bharatpal Yadav Building",
+    "locality": "Sector 51",
+    "pin_code": "122003",
+    "address": "Sector 51, Gurgaon, Haryana - 122003",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0157",
+    "city": "Gurugram",
+    "name": "Ather Grid Charging Station",
+    "locality": "Sector 53",
+    "pin_code": "122011",
+    "address": "Sector 53, Gurgaon, Haryana - 122011",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0158",
+    "city": "Gurugram",
+    "name": "Sector 57",
+    "locality": "Sector 57",
+    "pin_code": "122003",
+    "address": "Sector 57, Gurgaon, Haryana - 122003",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0159",
+    "city": "Gurugram",
+    "name": "Bus Stand Sec 4",
+    "locality": "Sector 6",
+    "pin_code": "123106",
+    "address": "Sector 6, Gurgaon, Haryana - 123106",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0160",
+    "city": "Gurugram",
+    "name": "International Delhi Public School",
+    "locality": "Sector 6",
+    "pin_code": "122001",
+    "address": "Sector 6, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0161",
+    "city": "Gurugram",
+    "name": "AB Mauri India Pvt Ltd",
+    "locality": "Sector 65",
+    "pin_code": "122102",
+    "address": "Sector 65, Gurgaon, Haryana - 122102",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0162",
+    "city": "Gurugram",
+    "name": "Design Plus",
+    "locality": "Sector 66",
+    "pin_code": "122101",
+    "address": "Sector 66, Gurgaon, Haryana - 122101",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0163",
+    "city": "Gurugram",
+    "name": "Clove Dental",
+    "locality": "Sector 70",
+    "pin_code": "122101",
+    "address": "Sector 70, Gurgaon, Haryana - 122101",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0164",
+    "city": "Gurugram",
+    "name": "The Nature's Palm Atta Chakki Sec 70A | Multigrain And Millets Atta | Premium Dry Fruits",
+    "locality": "Sector 70A",
+    "pin_code": "122101",
+    "address": "Sector 70A, Gurgaon, Haryana - 122101",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0165",
+    "city": "Gurugram",
+    "name": "Temple Gym",
+    "locality": "Sector 72",
+    "pin_code": "122101",
+    "address": "Sector 72, Gurgaon, Haryana - 122101",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0166",
+    "city": "Gurugram",
+    "name": "Apna Mattress House",
+    "locality": "Sector 78",
+    "pin_code": "122012",
+    "address": "Sector 78, Gurgaon, Haryana - 122012",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0167",
+    "city": "Gurugram",
+    "name": "Sector 8",
+    "locality": "Sector 8",
+    "pin_code": "122001",
+    "address": "Sector 8, Gurgaon, Haryana - 122001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0168",
+    "city": "Gurugram",
+    "name": "Opposite Saphire 83 Mall",
+    "locality": "Sector 83",
+    "pin_code": "122012",
+    "address": "Sector 83, Gurgaon, Haryana - 122012",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0169",
+    "city": "Gurugram",
+    "name": "Sector 88",
+    "locality": "Sector 88",
+    "pin_code": "122505",
+    "address": "Sector 88, Gurgaon, Haryana - 122505",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0170",
+    "city": "Gurugram",
+    "name": "Blinkit Warehouse",
+    "locality": "Sector 9",
+    "pin_code": "122505",
+    "address": "Sector 9, Gurgaon, Haryana - 122505",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0171",
+    "city": "Gurugram",
+    "name": "Rohit EnterPrises",
+    "locality": "Sector 92",
+    "pin_code": "122505",
+    "address": "Sector 92, Gurgaon, Haryana - 122505",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0172",
+    "city": "Gurugram",
+    "name": "NewTown Square Mall",
+    "locality": "Sector 95A",
+    "pin_code": "122505",
+    "address": "Sector 95A, Gurgaon, Haryana - 122505",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0173",
+    "city": "Gurugram",
+    "name": "Cloudnine Fertility & IVF Center- Golf Course Road",
+    "locality": "Sohna",
+    "pin_code": "122011",
+    "address": "Sohna, Gurgaon, Haryana - 122011",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0174",
+    "city": "Gurugram",
+    "name": "Detailing Bull Gurugram",
+    "locality": "Sohna",
+    "pin_code": "122011",
+    "address": "Sohna, Gurgaon, Haryana - 122011",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0175",
+    "city": "Gurugram",
+    "name": "Sector 61 Ullwas Gaon",
+    "locality": "Sohna",
+    "pin_code": "122102",
+    "address": "Sohna, Gurgaon, Haryana - 122102",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0176",
+    "city": "Gurugram",
+    "name": "Shree Sai Auto Work Shop & Washing Service Station",
+    "locality": "Sohna",
+    "pin_code": "122102",
+    "address": "Sohna, Gurgaon, Haryana - 122102",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0177",
+    "city": "Gurugram",
+    "name": "Surya Hospital",
+    "locality": "Sohna",
+    "pin_code": "122103",
+    "address": "Sohna, Gurgaon, Haryana - 122103",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0178",
+    "city": "Noida",
+    "name": "Amity",
+    "locality": "Amity",
+    "pin_code": "201313",
+    "address": "Amity, Noida, Uttar Pradesh - 201313",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0179",
+    "city": "Noida",
+    "name": "Bajidpur",
+    "locality": "Bajidpur",
+    "pin_code": "201304",
+    "address": "Bajidpur, Noida, Uttar Pradesh - 201304",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0180",
+    "city": "Noida",
+    "name": "Babu Kirana Store",
+    "locality": "Kondli",
+    "pin_code": "201304",
+    "address": "Kondli, Noida, Uttar Pradesh - 201304",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0181",
+    "city": "Noida",
+    "name": "C-Block",
+    "locality": "Sector-31",
+    "pin_code": "201301",
+    "address": "Sector-31, Noida, Uttar Pradesh - 201301",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0182",
+    "city": "Noida",
+    "name": "Dream Home 2",
+    "locality": "Sector 73 Noida",
+    "pin_code": "201316",
+    "address": "Sector 73 Noida, Noida, Uttar Pradesh - 201316",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0183",
+    "city": "Noida",
+    "name": "Salarpur",
+    "locality": "Salarpur",
+    "pin_code": "201304",
+    "address": "Salarpur, Noida, Uttar Pradesh - 201304",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0184",
+    "city": "Noida",
+    "name": "Baba Da Dhaba (Sector-2 Wale)",
+    "locality": "Sector 104",
+    "pin_code": "201304",
+    "address": "Sector 104, Noida, Uttar Pradesh - 201304",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0185",
+    "city": "Noida",
+    "name": "SECTOR 116 New",
+    "locality": "Sector 116",
+    "pin_code": "201316",
+    "address": "Sector 116, Noida, Uttar Pradesh - 201316",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0186",
+    "city": "Noida",
+    "name": "The Blumin Studio",
+    "locality": "Sector 116",
+    "pin_code": "201305",
+    "address": "Sector 116, Noida, Uttar Pradesh - 201305",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0187",
+    "city": "Noida",
+    "name": "Zepto",
+    "locality": "Sector 117",
+    "pin_code": "201316",
+    "address": "Sector 117, Noida, Uttar Pradesh - 201316",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0188",
+    "city": "Noida",
+    "name": "Chroma Power Systems India Private Limited",
+    "locality": "Sector 130",
+    "pin_code": "201304",
+    "address": "Sector 130, Noida, Uttar Pradesh - 201304",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0189",
+    "city": "Noida",
+    "name": "Pauspa Chauk",
+    "locality": "Sector 131",
+    "pin_code": "201304",
+    "address": "Sector 131, Noida, Uttar Pradesh - 201304",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0190",
+    "city": "Noida",
+    "name": "Sector 137",
+    "locality": "Sector 137",
+    "pin_code": "201305",
+    "address": "Sector 137, Noida, Uttar Pradesh - 201305",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0191",
+    "city": "Noida",
+    "name": "Fitlane",
+    "locality": "Sector 141",
+    "pin_code": "201305",
+    "address": "Sector 141, Noida, Uttar Pradesh - 201305",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0192",
+    "city": "Noida",
+    "name": "Fitlane",
+    "locality": "Sector 141",
+    "pin_code": "201305",
+    "address": "Sector 141, Noida, Uttar Pradesh - 201305",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0193",
+    "city": "Noida",
+    "name": "SECTOR 142 NETWORK NEW",
+    "locality": "Sector 142",
+    "pin_code": "201305",
+    "address": "Sector 142, Noida, Uttar Pradesh - 201305",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0194",
+    "city": "Noida",
+    "name": "Noida Sector 143",
+    "locality": "Sector 143B",
+    "pin_code": "201304",
+    "address": "Sector 143B, Noida, Uttar Pradesh - 201304",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0195",
+    "city": "Noida",
+    "name": "Sector 22",
+    "locality": "Sector 22",
+    "pin_code": "201301",
+    "address": "Sector 22, Noida, Uttar Pradesh - 201301",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0196",
+    "city": "Noida",
+    "name": "Sector 27",
+    "locality": "Sector 27",
+    "pin_code": "201301",
+    "address": "Sector 27, Noida, Uttar Pradesh - 201301",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0197",
+    "city": "Noida",
+    "name": "AZB & Partners",
+    "locality": "Sector 4",
+    "pin_code": "201301",
+    "address": "Sector 4, Noida, Uttar Pradesh - 201301",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0198",
+    "city": "Noida",
+    "name": "Sector 41",
+    "locality": "Sector 41",
+    "pin_code": "201303",
+    "address": "Sector 41, Noida, Uttar Pradesh - 201303",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0199",
+    "city": "Noida",
+    "name": "Pizza Plaza",
+    "locality": "Sector 41",
+    "pin_code": "201304",
+    "address": "Sector 41, Noida, Uttar Pradesh - 201304",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0200",
+    "city": "Noida",
+    "name": "Iqbal Bus Body Builder",
+    "locality": "Sector-45",
+    "pin_code": "201303",
+    "address": "Sector-45, Noida, Uttar Pradesh - 201303",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0201",
+    "city": "Noida",
+    "name": "Domino's Pizza",
+    "locality": "Sector 46",
+    "pin_code": "201303",
+    "address": "Sector 46, Noida, Uttar Pradesh - 201303",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0202",
+    "city": "Noida",
+    "name": "FabHotel Marbella Noida Sec 51",
+    "locality": "Sector 51",
+    "pin_code": "201303",
+    "address": "Sector 51, Noida, Uttar Pradesh - 201303",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0203",
+    "city": "Noida",
+    "name": "Sector 53",
+    "locality": "Sector 53",
+    "pin_code": "201307",
+    "address": "Sector 53, Noida, Uttar Pradesh - 201307",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0204",
+    "city": "Noida",
+    "name": "Two Sisters Company",
+    "locality": "Sector 58",
+    "pin_code": "201309",
+    "address": "Sector 58, Noida, Uttar Pradesh - 201309",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0205",
+    "city": "Noida",
+    "name": "Sector 62",
+    "locality": "Sector 62",
+    "pin_code": "201309",
+    "address": "Sector 62, Noida, Uttar Pradesh - 201309",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0206",
+    "city": "Noida",
+    "name": "Carmasters",
+    "locality": "Sector 63",
+    "pin_code": "201309",
+    "address": "Sector 63, Noida, Uttar Pradesh - 201309",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0207",
+    "city": "Noida",
+    "name": "Shakti EnterPrises (Waste Paper Supplier)",
+    "locality": "Sector 65",
+    "pin_code": "201309",
+    "address": "Sector 65, Noida, Uttar Pradesh - 201309",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0208",
+    "city": "Noida",
+    "name": "Sector 71",
+    "locality": "Sector 71",
+    "pin_code": "201309",
+    "address": "Sector 71, Noida, Uttar Pradesh - 201309",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0209",
+    "city": "Noida",
+    "name": "Ekart Delivery",
+    "locality": "Sector 73",
+    "pin_code": "201316",
+    "address": "Sector 73, Noida, Uttar Pradesh - 201316",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0210",
+    "city": "Noida",
+    "name": "Big Star Air Conditioner",
+    "locality": "Sector 75",
+    "pin_code": "201316",
+    "address": "Sector 75, Noida, Uttar Pradesh - 201316",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0211",
+    "city": "Noida",
+    "name": "Dr. Achint Juneja",
+    "locality": "Sector 78",
+    "pin_code": "201305",
+    "address": "Sector 78, Noida, Uttar Pradesh - 201305",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0212",
+    "city": "Noida",
+    "name": "Karman Drones",
+    "locality": "Sector 8",
+    "pin_code": "201301",
+    "address": "Sector 8, Noida, Uttar Pradesh - 201301",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0213",
+    "city": "Noida",
+    "name": "The Wings Learning Center (Dr Rishi Pal)",
+    "locality": "Sector 93",
+    "pin_code": "201304",
+    "address": "Sector 93, Noida, Uttar Pradesh - 201304",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0214",
+    "city": "Faridabad",
+    "name": "Dhiman Glass Co. - Glass Shop In GreenField - Aluminium Work In GreenField",
+    "locality": "Anangpur",
+    "pin_code": "121003",
+    "address": "Anangpur, Faridabad, Haryana - 121003",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0215",
+    "city": "Faridabad",
+    "name": "The Pizza Empire Ballabgarh",
+    "locality": "Ballabhgarh",
+    "pin_code": "121004",
+    "address": "Ballabhgarh, Faridabad, Haryana - 121004",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0216",
+    "city": "Faridabad",
+    "name": "Bikaner Mishthan Bhandar",
+    "locality": "Dayal Bagh Colony",
+    "pin_code": "121009",
+    "address": "Dayal Bagh Colony, Faridabad, Haryana - 121009",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0217",
+    "city": "Faridabad",
+    "name": "1511/8",
+    "locality": "Sector 31",
+    "pin_code": "121003",
+    "address": "Sector 31, Faridabad, Haryana - 121003",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0218",
+    "city": "Faridabad",
+    "name": "3418",
+    "locality": "Ballabgarh",
+    "pin_code": "121004",
+    "address": "Ballabgarh, Faridabad, Haryana - 121004",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0219",
+    "city": "Faridabad",
+    "name": "Pickup Honda Greater Faridabad",
+    "locality": "Neharpar Faridabad",
+    "pin_code": "121014",
+    "address": "Neharpar Faridabad, Faridabad, Haryana - 121014",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0220",
+    "city": "Faridabad",
+    "name": "Gulshan Fish And Chicken Corner",
+    "locality": "New Industrial Township",
+    "pin_code": "121001",
+    "address": "New Industrial Township, Faridabad, Haryana - 121001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0221",
+    "city": "Faridabad",
+    "name": "Piyush EnterPrises",
+    "locality": "New Industrial Township",
+    "pin_code": "121001",
+    "address": "New Industrial Township, Faridabad, Haryana - 121001",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0222",
+    "city": "Faridabad",
+    "name": "A Pushp Vatika",
+    "locality": "Sector 10 HBC",
+    "pin_code": "121006",
+    "address": "Sector 10 HBC, Faridabad, Haryana - 121006",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0223",
+    "city": "Faridabad",
+    "name": "New Crystal Car",
+    "locality": "Sector 16",
+    "pin_code": "121002",
+    "address": "Sector 16, Faridabad, Haryana - 121002",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0224",
+    "city": "Faridabad",
+    "name": "Labour Chowk",
+    "locality": "Sector 21D",
+    "pin_code": "121012",
+    "address": "Sector 21D, Faridabad, Haryana - 121012",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0225",
+    "city": "Faridabad",
+    "name": "Kaushik Digital Studio",
+    "locality": "Sector 36",
+    "pin_code": "121003",
+    "address": "Sector 36, Faridabad, Haryana - 121003",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0226",
+    "city": "Faridabad",
+    "name": "Hummingbirds International",
+    "locality": "Sector 49",
+    "pin_code": "121012",
+    "address": "Sector 49, Faridabad, Haryana - 121012",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0227",
+    "city": "Faridabad",
+    "name": "Barfani Restaurant",
+    "locality": "Sector 55",
+    "pin_code": "121015",
+    "address": "Sector 55, Faridabad, Haryana - 121015",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0228",
+    "city": "Faridabad",
+    "name": "Future Tech",
+    "locality": "Sector 82",
+    "pin_code": "121002",
+    "address": "Sector 82, Faridabad, Haryana - 121002",
+    "valid_pin": true
+  },
+  {
+    "id": "loc-0229",
+    "city": "Faridabad",
+    "name": "Sector-86 New",
+    "locality": "Sector-86",
+    "pin_code": "121002",
+    "address": "Sector-86, Faridabad, Haryana - 121002",
+    "valid_pin": true
+  }
+]

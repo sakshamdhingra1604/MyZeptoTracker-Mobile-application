@@ -1,0 +1,27 @@
+myzeptotracker — start here
+
+A. Start backend on your laptop
+   - Windows: double-click backend/start_backend_windows.bat
+   - Linux/Arch: run backend/start_backend_linux.sh
+   - If prompted, allow Python/port 8765 on your private network only.
+
+B. Open the Android app
+   - Open the mobile folder in Android Studio (with Flutter 3.44+ and Android SDK installed).
+   - Run `flutter pub get`, then `flutter run`.
+   - App's Settings card is visible on first launch.
+   - Set URL to http://<your-laptop-private-LAN-IP>:8765 and API key to backend/.env's API_KEY.
+   - On Android emulator use http://10.0.2.2:8765.
+
+C. Test
+   - Tap Connect, then Test notification. TEST labels mean simulated data, not real stock.
+   - Import another workbook with Import Excel; the included workbook is already loaded.
+   - Select products, then Start monitoring.
+
+D. Live stock
+   - CHECK_MODE=demo is the safe default; it sends no Zepto stock requests.
+   - See docs/LIVE_CONNECTOR.md to connect an authorised stock data source.
+   - 403/429 pauses monitoring; no Akamai bypass or IP rotation is implemented.
+
+E. Build APK
+   - In terminal: cd mobile && flutter pub get && flutter build apk --release
+   - APK: mobile/build/app/outputs/flutter-apk/app-release.apk

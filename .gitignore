@@ -1,0 +1,28 @@
+# Secrets and local runtime data
+backend/.env
+backend/.venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/tests/__pycache__/
+backend/.pytest_cache/
+backend/data/tracker.db
+backend/data/locations_upload_*.xlsx
+backend/data/chrome_profile/
+backend/sample_search.json
+*.pyc
+
+# IDE files
+.idea/
+.vscode/
+
+# Flutter / Dart generated files
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+mobile/build/
+mobile/android/local.properties
+mobile/android/.gradle/
+mobile/android/.kotlin/
+mobile/android/app/.cxx/
+mobile/android/app/build/
